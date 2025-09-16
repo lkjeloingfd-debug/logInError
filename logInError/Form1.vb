@@ -12,7 +12,7 @@
                 output.ForeColor = Color.Red
             End If
 
-            'If input1.Contains(" ") Then
+            'pushed
 
         Catch ex As Exception
 
